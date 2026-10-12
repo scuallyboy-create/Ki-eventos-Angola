@@ -1,0 +1,6 @@
+{
+  "name": "Ki-eventos",
+  "description": "Plataforma moderna para criar, personalizar e gerir convites digitais memoráveis e confirmações de presença (RSVP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
